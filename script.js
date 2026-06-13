@@ -1,0 +1,1 @@
+console.log("Hidden Text Challenge Loaded");
